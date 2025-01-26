@@ -2,6 +2,8 @@
 
 FileScanner is an intuitive desktop application to detect and manage duplicate files in your folders. Simplify your file organization in just a few clicks!
 
+![image](https://github.com/user-attachments/assets/02cfbba3-119f-41c4-bd45-0115a5603b55)
+
 ## ✨ Key Features
 
 - **🔍 Duplicate Detection:** Quickly scan to identify duplicate files.
